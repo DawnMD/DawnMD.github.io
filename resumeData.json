@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Mainak Das",
+    "occupation":"Full Stack Developer",
+    "description":"Bright critical thinker with talent for learning quickly in results-oriented environment",
+    "image":"profile.JPG",
+    "bio":"Computer Engineering student with experience in JavaScript, Python and full stack web development. Knowledgeable in range of other development languages and methodologies",
+    "contactmessage":"Get in touch !",
+    "email": "mainakdas104@gmail.com",
+    "phone": "+91-7605873677",
+    "address":{
+      "street":"Salt Lake Sector 4",
+      "city":"Kolkata",
+      "state":"West Bengal",
+      "zip": "700105"
+    },
+    "website": "https://dawnmd.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1pLODFZAlJ-stw9zocVrl4AGYhcDMJbvJ/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/mainak1147",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mainak1147/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/DawnMD",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Adamas University",
+        "degree":"Bachelor's of Technology in Computer Science Engineering",
+        "graduated":"July 2021",
+        "description":"CGPA ~7. Learned NPM, JS, React, etc."
+      },
+      {
+        "school":"Bidhannagar Municipal School",
+        "degree":"Pure Science + Computer Science",
+        "graduated":"March 2017",
+        "description":"62% accumulated score. Learned basic C programming with C++ and Java."
+      }
+    ],
+    "work":[
+      {
+        "company":"Next Generation Technocom Private Ltd.",
+        "title":"Lead Developer Intern",
+        "years":"August 2020 - Present",
+        "description":"Setting up an Internet Access Management(IAM) software onto Kubernetes(K8s) for easy Single Sign-On with High Availability and Fail Safe. Managing a team of 6 members"
+      },
+      {
+        "company":"Globsyn",
+        "title":"Tranning Intern",
+        "years":"June 2019 - July 2019",
+        "description":"Learned data sciences using python and how to clean data from a dataset with null values, etc. Lead a team of 5 members."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Node JS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Kubernetes K8s",
+        "level":"50%"
+      },
+      {
+        "name":"Nginx Docker",
+        "level":"60%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"During the period of his internship program with us he was found punctual, hardworking and inquisitive.",
+        "user":"Subrata Mallick, CEO & Founder, Next Generation Technocom Private Ltd."
+      }
+    ]
+  }
+}
