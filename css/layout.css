@@ -81,7 +81,8 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-  color: #fff;
+  color: #ffc125;
+  font-weight: bold;
 }
 header .banner-text hr {
   width: 60%;
@@ -930,10 +931,11 @@ call-to-action .button {
 #contact h1:before {
   font-family: "Roboto", "FontAwesome";
   content: "\f0e0";
-  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 11px;
   font-size: 72px;
-  line-height: 72px;
-  text-align: left;
+  line-height: 19px;
+  /* text-align: left; */
   float: left;
   color: #ebeeee;
 }
@@ -1143,4 +1145,14 @@ footer .social-links li:first-child {
 }
 #go-top a:hover {
   background-color: #ffc125;
+}
+.write {
+  font-size: 250%;
+}
+.wcontact {
+  margin-top: 20px;
+}
+.buttmail {
+  color: black !important;
+  font-weight: bold;
 }
